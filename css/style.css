@@ -36,3 +36,19 @@ img {
 img:hover {
     transform: scale(1.1);
 }
+
+footer {
+    height: 4rem;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 1.2em;
+}
+
+footer a {
+    text-decoration: underline;
+    color: black;
+}
+
+footer p {
+    line-height: 2em;
+}
